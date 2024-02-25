@@ -4,7 +4,7 @@
 API_KEY="Enter your API KEY here"
 
 # Prompt for user input
-echo "Enter your message:"
+echo "Enter your prompt:"
 read user_input
 
 # Make request to OpenAI API and handle errors
