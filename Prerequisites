@@ -1,2 +1,4 @@
 sudo apt update
 sudo apt install bash curl jq
+
+//Install these packages before running the script
