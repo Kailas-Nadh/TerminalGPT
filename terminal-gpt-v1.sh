@@ -3,9 +3,13 @@
 # Generate an API Key from OpenAI and enter below
 API_KEY="Enter your API KEY here"
 
-# Prompt for user input
+echo ""
+echo -e "\e[35m**********************TerminalGPT**********************\e[0m"
+echo ""
 echo "Enter your prompt:"
-read user_input
+echo ""
+# Prompt for user input
+read -p " >> " user_input
 
 # Make request to OpenAI API and handle errors
 response=$(curl -s -H "Content-Type: application/json" \
