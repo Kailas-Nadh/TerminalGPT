@@ -1,5 +1,10 @@
 # TerminalGPT
-1. Install the packages mentioned in the Pre-requisites
+1. Update your system and install the following packages
+
+```
+sudo apt update
+sudo apt install bash jq
+```
 
 2. Download the script file terminal-gpt-v1.sh
 
@@ -10,7 +15,8 @@
 ```
 chmod +x terminal-gpt-v1.sh
 ```
-4. Run the script
+
+5. Run the script
 
 ```
 ./terminal-gpt-v1.sh
