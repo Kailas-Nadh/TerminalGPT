@@ -3,7 +3,7 @@
 
 ```
 sudo apt update
-sudo apt install bash jq
+sudo apt install bash curl jq
 ```
 
 2. Download the script file terminal-gpt-v1.sh
