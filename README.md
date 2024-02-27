@@ -7,9 +7,9 @@
 
 4. Grant execution permission for the script
 
----
+'''
  chmod +x terminal-gpt-v1.sh
----
+'''
 4. Run the script
 
 > ./terminal-gpt-v1.sh
