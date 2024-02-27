@@ -1,5 +1,5 @@
 #!/bin/bash
-
+# Code by: https://github.com/Kailas-Nadh
 # Generate an API Key from OpenAI and enter below
 API_KEY="Enter your API KEY here"
 
